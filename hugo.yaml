@@ -55,6 +55,10 @@ menu:
       pageRef: /blog/ceh
       parent: blog 
 
+    - name: API Testing
+      pageRef: /blog/api-testing
+      parent: blog
+
     - name: Extras
       pageRef: /extras
       weight: 5

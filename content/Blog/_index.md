@@ -19,6 +19,8 @@ Welcome to my cybersecurity learning space where I share real-world knowledge an
 
 {{< card link="/blog/ceh" title="CEH Journey" subtitle="CEH preparation and notes" icon="book-open" >}}
 
+{{< card link="/blog/api-testing/" title="API Testing Notes" subtitle="API Testing, Security & Bug Bounty" icon="code" >}}
+
 {{< /cards >}}
 
 
